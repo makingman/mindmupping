@@ -123,7 +123,13 @@
           "id": 26
         }
       },
-      "id": 2
+      "id": 2,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "2": {
       "title": "Ergonomics",
@@ -179,7 +185,13 @@
           "id": 37
         }
       },
-      "id": 28
+      "id": 28,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "3": {
       "title": "Redundancy",
@@ -235,7 +247,13 @@
           "id": 48
         }
       },
-      "id": 39
+      "id": 39,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "4": {
       "title": "Industry Standards",
@@ -261,7 +279,13 @@
           "id": 53
         }
       },
-      "id": 50
+      "id": 50,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "5": {
       "title": "Political and Social Factors",
@@ -307,7 +331,13 @@
           "id": 62
         }
       },
-      "id": 55
+      "id": 55,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "6": {
       "title": "Training",
@@ -343,7 +373,13 @@
           "id": 69
         }
       },
-      "id": 64
+      "id": 64,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "7": {
       "title": "Materials",
@@ -419,7 +455,13 @@
           "id": 84
         }
       },
-      "id": 71
+      "id": 71,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "8": {
       "title": "Environment",
@@ -525,7 +567,13 @@
           "id": 105
         }
       },
-      "id": 86
+      "id": 86,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "9": {
       "title": "Target Production Cost",
@@ -571,7 +619,13 @@
           "id": 114
         }
       },
-      "id": 107
+      "id": 107,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "10": {
       "title": "Weight",
@@ -707,7 +761,13 @@
           "id": 141
         }
       },
-      "id": 116
+      "id": 116,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "11": {
       "title": "Market Constraints",
@@ -793,7 +853,13 @@
           "id": 158
         }
       },
-      "id": 143
+      "id": 143,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "12": {
       "title": "Competition",
@@ -829,7 +895,13 @@
           "id": 165
         }
       },
-      "id": 160
+      "id": 160,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "13": {
       "title": "Performance",
@@ -955,7 +1027,13 @@
           "id": 190
         }
       },
-      "id": 167
+      "id": 167,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "14": {
       "title": "Maintenance",
@@ -1071,7 +1149,13 @@
           "id": 213
         }
       },
-      "id": 192
+      "id": 192,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "15": {
       "title": "Service Life",
@@ -1177,7 +1261,13 @@
           "id": 234
         }
       },
-      "id": 215
+      "id": 215,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "16": {
       "title": "Size",
@@ -1313,7 +1403,13 @@
           "id": 261
         }
       },
-      "id": 236
+      "id": 236,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "17": {
       "title": "Function",
@@ -1449,7 +1545,13 @@
           "id": 288
         }
       },
-      "id": 263
+      "id": 263,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "18": {
       "title": "Quality and Reliability",
@@ -1475,7 +1577,13 @@
           "id": 293
         }
       },
-      "id": 290
+      "id": 290,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "19": {
       "title": "Testing",
@@ -1541,7 +1649,13 @@
           "id": 306
         }
       },
-      "id": 295
+      "id": 295,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "20": {
       "title": "Customers",
@@ -1607,7 +1721,13 @@
           "id": 319
         }
       },
-      "id": 308
+      "id": 308,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "21": {
       "title": "Longevity/Storage",
@@ -1643,7 +1763,13 @@
           "id": 326
         }
       },
-      "id": 321
+      "id": 321,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "22": {
       "title": "Safety",
@@ -1789,7 +1915,13 @@
           "id": 355
         }
       },
-      "id": 328
+      "id": 328,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "23": {
       "title": "Personnel",
@@ -1875,7 +2007,13 @@
           "id": 372
         }
       },
-      "id": 357
+      "id": 357,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "24": {
       "title": "Timing",
@@ -1911,7 +2049,13 @@
           "id": 379
         }
       },
-      "id": 374
+      "id": 374,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "25": {
       "title": "How an LNG Dual Fuel Engine Works?",
@@ -1987,7 +2131,13 @@
           "id": 394
         }
       },
-      "id": 381
+      "id": 381,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
     },
     "26": {
       "title": "Economy",
@@ -2053,18 +2203,19 @@
           "id": 407
         }
       },
-      "id": 396
+      "id": 396,
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-1": {
+      "title": "Hi, Tasks allocated A=Ahmed, B=Branley, E=Ebo, W=Warrie click a heading and press 'f' to fold and unfold them",
+      "id": 409
     }
   },
   "formatVersion": 2,
-  "id": 1,
-  "attr": {
-    "attachment": {
-      "contentType": "text/html",
-      "content": "<div style=\"text-align: left;\">Hi Gents,</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Here is the project map as it currently stands. &nbsp;This is a collaborative map and when you make changes I can see what you have altered....So long as when you save you select FILE....SAVE AS....GITHUB that is.</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">This is an easy way for you to navigate project. &nbsp;Also I am going to upload all your tasks to redbooth with time lines. &nbsp;And to MS Project.</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">You will be able to fold/unfold headings by selecting them and pressing 'f'. &nbsp;Have a play with this and see how you go.</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">You have been allocated tasks:</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">A= Ahmed</div><div style=\"text-align: left;\">B= Branley</div><div style=\"text-align: left;\">E= Ebo</div><div style=\"text-align: left;\">W= Warrie</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">I started at top and worked my way down.</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Tom</div>"
-    },
-    "style": {
-      "background": "#22AAE0"
-    }
-  }
+  "id": 1
 }
