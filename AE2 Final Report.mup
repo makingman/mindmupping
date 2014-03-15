@@ -2057,5 +2057,14 @@
     }
   },
   "formatVersion": 2,
-  "id": 1
+  "id": 1,
+  "attr": {
+    "attachment": {
+      "contentType": "text/html",
+      "content": "<div style=\"text-align: left;\">Hi Gents,</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Here is the project map as it currently stands. &nbsp;This is a collaborative map and when you make changes I can see what you have altered....So long as when you save you select FILE....SAVE AS....GITHUB that is.</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">This is an easy way for you to navigate project. &nbsp;Also I am going to upload all your tasks to redbooth with time lines. &nbsp;And to MS Project.</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">You will be able to fold/unfold headings by selecting them and pressing 'f'. &nbsp;Have a play with this and see how you go.</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">You have been allocated tasks:</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">A= Ahmed</div><div style=\"text-align: left;\">B= Branley</div><div style=\"text-align: left;\">E= Ebo</div><div style=\"text-align: left;\">W= Warrie</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">I started at top and worked my way down.</div><div style=\"text-align: left;\"><br></div><div style=\"text-align: left;\">Tom</div>"
+    },
+    "style": {
+      "background": "#22AAE0"
+    }
+  }
 }
