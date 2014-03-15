@@ -15,119 +15,244 @@
                   "ideas": {
                     "1": {
                       "title": "get advice about efficiency effects on ship operation",
-                      "id": 6
+                      "id": 6,
+                      "attr": {
+                        "style": {
+                          "background": "#ffff00"
+                        }
+                      }
                     }
                   },
-                  "id": 5
+                  "id": 5,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
                 },
                 "2": {
                   "title": "Rollo Tomkins",
                   "ideas": {
                     "1": {
                       "title": "get efficiency estimates",
-                      "id": 8
+                      "id": 8,
+                      "attr": {
+                        "style": {
+                          "background": "#ffff00"
+                        }
+                      }
                     }
                   },
-                  "id": 7
+                  "id": 7,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
                 }
               },
-              "id": 4
+              "id": 4,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             },
             "2": {
               "title": "Trim and Stability Assessment book from Red Funnel",
               "ideas": {
                 "1": {
                   "title": "Load condition with GZ curve",
-                  "id": 10
+                  "id": 10,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
                 },
                 "2": {
                   "title": "KN curves",
-                  "id": 11
+                  "id": 11,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
                 }
               },
-              "id": 9
+              "id": 9,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             }
           },
-          "id": 3
+          "id": 3,
+          "attr": {
+            "style": {
+              "background": "#ffff00"
+            }
+          }
         },
         "2": {
           "title": "Weight Audit",
           "ideas": {
             "1": {
               "title": "Audit equipment to be removed",
-              "id": 13
+              "id": 13,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             },
             "2": {
               "title": "Identify new weights to be added",
-              "id": 14
+              "id": 14,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             },
             "3": {
               "title": "Get trim and stability curve with GZ curve, get KN curves",
-              "id": 15
+              "id": 15,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             }
           },
-          "id": 12
+          "id": 12,
+          "attr": {
+            "style": {
+              "background": "#ffff00"
+            }
+          }
         },
         "3": {
           "title": "Space Audit",
           "ideas": {
             "1": {
               "title": "Are there sufficient channels available in MacY control system for new sensors",
-              "id": 17
+              "id": 17,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             },
             "2": {
               "title": "Is there sufficient space and power in electrical switchboards",
-              "id": 18
+              "id": 18,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             },
             "3": {
               "title": "Where are we going to put fuel,, how much space do we have to put it in?",
-              "id": 19
+              "id": 19,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             },
             "4": {
               "title": "Identify space available, can it accommodate new equipment?",
-              "id": 20
+              "id": 20,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             },
             "5": {
               "title": "Can space accommodate new pipes, restrictions on bending them",
-              "id": 21
+              "id": 21,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             },
             "6": {
               "title": "How often do we need to bunker, how much?",
-              "id": 22
+              "id": 22,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             }
           },
-          "id": 16
+          "id": 16,
+          "attr": {
+            "style": {
+              "background": "#ffff00"
+            }
+          }
         },
         "4": {
           "title": "Regulations",
           "ideas": {
             "1": {
               "title": "Fire",
-              "id": 24
+              "id": 24,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             },
             "2": {
               "title": "Proximity of fuels to one another",
-              "id": 25
+              "id": 25,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             }
           },
-          "id": 23
+          "id": 23,
+          "attr": {
+            "style": {
+              "background": "#ffff00"
+            }
+          }
         },
         "5": {
           "title": "Stability Changes",
           "ideas": {
             "1": {
               "title": "Produce new GZ curve using new equipment information",
-              "id": 27
+              "id": 27,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
             }
           },
-          "id": 26
+          "id": 26,
+          "attr": {
+            "style": {
+              "background": "#ffff00"
+            }
+          }
         }
       },
       "id": 2,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#ffff00"
         }
       }
     },
@@ -139,57 +264,107 @@
           "ideas": {
             "1": {
               "title": "A",
-              "id": 30
+              "id": 30,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 29
+          "id": 29,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "2": {
           "title": "Find out exact deck location where LNG tanks are installed",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 32
+              "id": 32,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 31
+          "id": 31,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "3": {
           "title": "Find out how much intrinsic lighting is required",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 34
+              "id": 34,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 33
+          "id": 33,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "4": {
           "title": "Find out quantity of paint to be used",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 36
+              "id": 36,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 35
+          "id": 35,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "5": {
           "title": "Find out size of DF engine",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 38
+              "id": 38,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 37
+          "id": 37,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         }
       },
       "id": 28,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#ff6600"
         }
       }
     },
@@ -201,57 +376,107 @@
           "ideas": {
             "1": {
               "title": "B",
-              "id": 41
+              "id": 41,
+              "attr": {
+                "style": {
+                  "background": "#808000"
+                }
+              }
             }
           },
-          "id": 40
+          "id": 40,
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          }
         },
         "2": {
           "title": "Find out if any existing equipment must be changed to comply with red. regs",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 43
+              "id": 43,
+              "attr": {
+                "style": {
+                  "background": "#808000"
+                }
+              }
             }
           },
-          "id": 42
+          "id": 42,
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          }
         },
         "3": {
           "title": "Find out minimum level of redundancy on board",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 45
+              "id": 45,
+              "attr": {
+                "style": {
+                  "background": "#808000"
+                }
+              }
             }
           },
-          "id": 44
+          "id": 44,
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          }
         },
         "4": {
           "title": "Find out any legislation for redundancy on LNG ships",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 47
+              "id": 47,
+              "attr": {
+                "style": {
+                  "background": "#808000"
+                }
+              }
             }
           },
-          "id": 46
+          "id": 46,
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          }
         },
         "5": {
           "title": "List level of red. in existing systems",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 49
+              "id": 49,
+              "attr": {
+                "style": {
+                  "background": "#808000"
+                }
+              }
             }
           },
-          "id": 48
+          "id": 48,
+          "attr": {
+            "style": {
+              "background": "#808000"
+            }
+          }
         }
       },
       "id": 39,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#808000"
         }
       }
     },
@@ -263,27 +488,47 @@
           "ideas": {
             "1": {
               "title": "E",
-              "id": 52
+              "id": 52,
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                }
+              }
             }
           },
-          "id": 51
+          "id": 51,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
         },
         "2": {
           "title": "Standards for piping configuration and fittings",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 54
+              "id": 54,
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                }
+              }
             }
           },
-          "id": 53
+          "id": 53,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
         }
       },
       "id": 50,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#ff9900"
         }
       }
     },
@@ -295,47 +540,87 @@
           "ideas": {
             "1": {
               "title": "A",
-              "id": 57
+              "id": 57,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 56
+          "id": 56,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         },
         "2": {
           "title": "Find out any local restrictions on use of LNG as fuel",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 59
+              "id": 59,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 58
+          "id": 58,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         },
         "3": {
           "title": "Find out any tax benefits for using LNG as fuel",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 61
+              "id": 61,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 60
+          "id": 60,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         },
         "4": {
           "title": "Find out how environmental organisations have influenced use of LNG as fuel",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 63
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 62
+          "id": 62,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         }
       },
       "id": 55,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#008080"
         }
       }
     },
@@ -347,37 +632,67 @@
           "ideas": {
             "1": {
               "title": "A",
-              "id": 66
+              "id": 66,
+              "attr": {
+                "style": {
+                  "background": "#00ccff"
+                }
+              }
             }
           },
-          "id": 65
+          "id": 65,
+          "attr": {
+            "style": {
+              "background": "#00ccff"
+            }
+          }
         },
         "2": {
           "title": "Find out what additional training will be reqd for crew for LNG system ",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 68
+              "id": 68,
+              "attr": {
+                "style": {
+                  "background": "#00ccff"
+                }
+              }
             }
           },
-          "id": 67
+          "id": 67,
+          "attr": {
+            "style": {
+              "background": "#00ccff"
+            }
+          }
         },
         "3": {
           "title": "Find out cost to retrain crew",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 70
+              "id": 70,
+              "attr": {
+                "style": {
+                  "background": "#00ccff"
+                }
+              }
             }
           },
-          "id": 69
+          "id": 69,
+          "attr": {
+            "style": {
+              "background": "#00ccff"
+            }
+          }
         }
       },
       "id": 64,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#00ccff"
         }
       }
     },
@@ -389,78 +704,155 @@
           "ideas": {
             "1": {
               "title": "W",
-              "id": 73
+              "id": 73,
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
             }
           },
-          "id": 72
+          "id": 72,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            },
+            "collapsed": true
+          }
         },
         "2": {
           "title": "Identify type of tanks to be used and materials used",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 75
+              "id": 75,
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
             }
           },
-          "id": 74
+          "id": 74,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            },
+            "collapsed": true
+          }
         },
         "3": {
           "title": "Indentify any pipework used in shoreside system",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 77
+              "id": 77,
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
             }
           },
-          "id": 76
+          "id": 76,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            },
+            "collapsed": true
+          }
         },
         "4": {
           "title": "Identify properties and characteristics of LNG",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 79
+              "id": 79,
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
             }
           },
-          "id": 78
+          "id": 78,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            },
+            "collapsed": true
+          }
         },
         "5": {
           "title": "Identify type of pipework used in LNG system",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 81
+              "id": 81,
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
             }
           },
-          "id": 80
+          "id": 80,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            },
+            "collapsed": true
+          }
         },
         "6": {
           "title": "Identify pipe and tank construction methods",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 83
+              "id": 83,
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
             }
           },
-          "id": 82
+          "id": 82,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            },
+            "collapsed": true
+          }
         },
         "7": {
           "title": "Identify what insulation must be used in tanks and pipelines",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 85
+              "id": 85,
+              "attr": {
+                "style": {
+                  "background": "#ff00ff"
+                }
+              }
             }
           },
-          "id": 84
+          "id": 84,
+          "attr": {
+            "style": {
+              "background": "#ff00ff"
+            },
+            "collapsed": true
+          }
         }
       },
       "id": 71,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#ff00ff"
+        },
+        "collapsed": true
       }
     },
     "8": {
@@ -471,108 +863,218 @@
           "ideas": {
             "1": {
               "title": "E",
-              "id": 88
+              "id": 88,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 87
+          "id": 87,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            },
+            "collapsed": true
+          }
         },
         "2": {
           "title": "What shock loading occurs on ship due to everyday operations",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 90
+              "id": 90,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 89
+          "id": 89,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            },
+            "collapsed": true
+          }
         },
         "3": {
           "title": "Investigate water quality in operating area",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 92
+              "id": 92,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 91
+          "id": 91,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            },
+            "collapsed": true
+          }
         },
         "4": {
           "title": "How will air temp. affect LNG plant operation",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 94
+              "id": 94,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 93
+          "id": 93,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            },
+            "collapsed": true
+          }
         },
         "5": {
           "title": "What is ambient temp. range in Solent",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 96
+              "id": 96,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 95
+          "id": 95,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            },
+            "collapsed": true
+          }
         },
         "6": {
           "title": "How will sea temp. affect LNG plant operation",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 98
+              "id": 98,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 97
+          "id": 97,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            },
+            "collapsed": true
+          }
         },
         "7": {
           "title": "How will humidity affect LNG plant operation",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 100
+              "id": 100,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 99
+          "id": 99,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            },
+            "collapsed": true
+          }
         },
         "8": {
           "title": "How will water quality affect LNG plant eg. cooling",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 102
+              "id": 102,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 101
+          "id": 101,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            },
+            "collapsed": true
+          }
         },
         "9": {
           "title": "Find how LNG will affect existing plant and auxy's",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 104
+              "id": 104,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 103
+          "id": 103,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            },
+            "collapsed": true
+          }
         },
         "10": {
           "title": "Investigate common areas of damage in existing plant and how this will affect new plant",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 106
+              "id": 106,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 105
+          "id": 105,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            },
+            "collapsed": true
+          }
         }
       },
       "id": 86,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#993366"
+        },
+        "collapsed": true
       }
     },
     "9": {
@@ -583,48 +1085,92 @@
           "ideas": {
             "1": {
               "title": "A",
-              "id": 109
+              "id": 109,
+              "attr": {
+                "style": {
+                  "background": "#3366ff"
+                }
+              }
             }
           },
-          "id": 108
+          "id": 108,
+          "attr": {
+            "style": {
+              "background": "#3366ff"
+            },
+            "collapsed": true
+          }
         },
         "2": {
           "title": "Find out how much similar new build LNG ships cost",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 111
+              "id": 111,
+              "attr": {
+                "style": {
+                  "background": "#3366ff"
+                }
+              }
             }
           },
-          "id": 110
+          "id": 110,
+          "attr": {
+            "style": {
+              "background": "#3366ff"
+            },
+            "collapsed": true
+          }
         },
         "3": {
           "title": "Find out how much existing retrofits cost",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 113
+              "id": 113,
+              "attr": {
+                "style": {
+                  "background": "#3366ff"
+                }
+              }
             }
           },
-          "id": 112
+          "id": 112,
+          "attr": {
+            "style": {
+              "background": "#3366ff"
+            },
+            "collapsed": true
+          }
         },
         "4": {
           "title": "Find out which dry dock retrofit would take place in",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 115
+              "id": 115,
+              "attr": {
+                "style": {
+                  "background": "#3366ff"
+                }
+              }
             }
           },
-          "id": 114
+          "id": 114,
+          "attr": {
+            "style": {
+              "background": "#3366ff"
+            },
+            "collapsed": true
+          }
         }
       },
       "id": 107,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#3366ff"
+        },
+        "collapsed": true
       }
     },
     "10": {
@@ -635,138 +1181,281 @@
           "ideas": {
             "1": {
               "title": "A",
-              "id": 118
+              "id": 118,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 117
+          "id": 117,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "2": {
           "title": "How will new tanks affect stability of ship",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 120
+              "id": 120,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 119
+          "id": 119,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "3": {
           "title": "What is weight of existing tanks when full",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 122
+              "id": 122,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 121
+          "id": 121,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "4": {
           "title": "What lifting equipment is reqd to remove/install plant",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 124
+              "id": 124,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 123
+          "id": 123,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "5": {
           "title": "How will weight impact on thrust power and ship resistance",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 126
+              "id": 126,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 125
+          "id": 125,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "6": {
           "title": "How will new plant affect stability",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 128
+              "id": 128,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 127
+          "id": 127,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "7": {
           "title": "What is weight of existing plant",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 130
+              "id": 130,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 129
+          "id": 129,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "8": {
           "title": "What is weight of new plant",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 132
+              "id": 132,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 131
+          "id": 131,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "9": {
           "title": "How will new plant impact sfc",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 134
+              "id": 134,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 133
+          "id": 133,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "10": {
           "title": "What lifting equipment is installed in Remontawa",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 136
+              "id": 136,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 135
+          "id": 135,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "11": {
           "title": "What is weight of new auxy's",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 138
+              "id": 138,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 137
+          "id": 137,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "12": {
           "title": "What is weight of new tanks when full",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 140
+              "id": 140,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 139
+          "id": 139,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         },
         "13": {
           "title": "How will weight of new tanks affect cargo and pasy space",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 142
+              "id": 142,
+              "attr": {
+                "style": {
+                  "background": "#ff99cc"
+                }
+              }
             }
           },
-          "id": 141
+          "id": 141,
+          "attr": {
+            "style": {
+              "background": "#ff99cc"
+            },
+            "collapsed": true
+          }
         }
       },
       "id": 116,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#ff99cc"
+        },
+        "collapsed": true
       }
     },
     "11": {
@@ -777,88 +1466,176 @@
           "ideas": {
             "1": {
               "title": "B",
-              "id": 145
+              "id": 145,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 144
+          "id": 144,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "2": {
           "title": "Estimate effect running on LNG will have on ticket prices",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 147
+              "id": 147,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 146
+          "id": 146,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "3": {
           "title": "Devise LNG containment system that will be universal between sister ships",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 149
+              "id": 149,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 148
+          "id": 148,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "4": {
           "title": "Find out how to minimise refit costs to make project attractive",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 151
+              "id": 151,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 150
+          "id": 150,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "5": {
           "title": "Investigate if LNG will be more cost effective than other technology",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 153
+              "id": 153,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 152
+          "id": 152,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "6": {
           "title": "Find out where LNG can be obtained and how readily",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 155
+              "id": 155,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 154
+          "id": 154,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "7": {
           "title": "Find out what LNG bunkering facilities are available",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 157
+              "id": 157,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 156
+          "id": 156,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "8": {
           "title": "Investigate what are public concerns with using LNG as fuel",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 159
+              "id": 159,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 158
+          "id": 158,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         }
       },
       "id": 143,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#00ffff"
+        },
+        "collapsed": true
       }
     },
     "12": {
@@ -869,38 +1646,69 @@
           "ideas": {
             "1": {
               "title": "B",
-              "id": 162
+              "id": 162,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
             }
           },
-          "id": 161
+          "id": 161,
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            },
+            "collapsed": true
+          }
         },
         "2": {
           "title": "Research NAKILAT shipyard in Qatar",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 164
+              "id": 164,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
             }
           },
-          "id": 163
+          "id": 163,
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
         },
         "3": {
           "title": "Research Fjordline LNG passenger ferries",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 166
+              "id": 166,
+              "attr": {
+                "style": {
+                  "background": "#ffcc00"
+                }
+              }
             }
           },
-          "id": 165
+          "id": 165,
+          "attr": {
+            "style": {
+              "background": "#ffcc00"
+            }
+          }
         }
       },
       "id": 160,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#ffcc00"
+        },
+        "collapsed": true
       }
     },
     "13": {
@@ -911,128 +1719,248 @@
           "ideas": {
             "1": {
               "title": "A",
-              "id": 169
+              "id": 169,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 168
+          "id": 168,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "2": {
           "title": "Find loads, duty and rate at which existing engine runs",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 171
+              "id": 171,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 170
+          "id": 170,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "3": {
           "title": "Compare efficiency losses of existing and new engine",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 173
+              "id": 173,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 172
+          "id": 172,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "4": {
           "title": "Find sfc per day for existing engines",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 175
+              "id": 175,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 174
+          "id": 174,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "5": {
           "title": "Calculate propulsion power for new engine",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 177
+              "id": 177,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 176
+          "id": 176,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "6": {
           "title": "Investigate existing engine power",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 179
+              "id": 179,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 178
+          "id": 178,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "7": {
           "title": "Investigate existing engine speed",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 181
+              "id": 181,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 180
+          "id": 180,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "8": {
           "title": "Calculate whether new power is sufficient",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 183
+              "id": 183,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 182
+          "id": 182,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "9": {
           "title": "Find sfc per day for new engines",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 185
+              "id": 185,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 184
+          "id": 184,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "10": {
           "title": "Compare thrust power of existing and new engine",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 187
+              "id": 187,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 186
+          "id": 186,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "11": {
           "title": "Determine whether new LNG engine can meet this loading",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 189
+              "id": 189,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 188
+          "id": 188,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "12": {
           "title": "Decide if ship will use current DG's or shaft generator instead?",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 191
+              "id": 191,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 190
+          "id": 190,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         }
       },
       "id": 167,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#0000ff"
+        },
+        "collapsed": true
       }
     },
     "14": {
@@ -1043,118 +1971,228 @@
           "ideas": {
             "1": {
               "title": "A",
-              "id": 194
+              "id": 194,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 193
+          "id": 193,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "2": {
           "title": "Identify how new system affects availability of parts",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 196
+              "id": 196,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 195
+          "id": 195,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "3": {
           "title": "Identify LNG plant maintenance requirements",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 198
+              "id": 198,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 197
+          "id": 197,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "4": {
           "title": "Identify system on board for recording PM info",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 200
+              "id": 200,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 199
+          "id": 199,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "5": {
           "title": "Investigate current SOPEP measures",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 202
+              "id": 202,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 201
+          "id": 201,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "6": {
           "title": "Get maintenance records from RF",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 204
+              "id": 204,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 203
+          "id": 203,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "7": {
           "title": "Highlight key problems and how will this affect LNG plant",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 206
+              "id": 206,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 205
+          "id": 205,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "8": {
           "title": "Investigate how current PM tasks are sent to office",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 208
+              "id": 208,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 207
+          "id": 207,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "9": {
           "title": "Identify ER responsibilities on board",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 210
+              "id": 210,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 209
+          "id": 209,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "10": {
           "title": "Identify how cost of new parts will change",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 212
+              "id": 212,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 211
+          "id": 211,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         },
         "11": {
           "title": "Identify how new PM system will integrate with existing system",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 214
+              "id": 214,
+              "attr": {
+                "style": {
+                  "background": "#008000"
+                }
+              }
             }
           },
-          "id": 213
+          "id": 213,
+          "attr": {
+            "style": {
+              "background": "#008000"
+            }
+          }
         }
       },
       "id": 192,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#008000"
+        },
+        "collapsed": true
       }
     },
     "15": {
@@ -1165,107 +2203,207 @@
           "ideas": {
             "1": {
               "title": "W",
-              "id": 217
+              "id": 217,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 216
+          "id": 216,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "2": {
           "title": "What are common problems with LNG 4 Stroke engines",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 219
+              "id": 219,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 218
+          "id": 218,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "3": {
           "title": "What is normal life span of new LNG engines?",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 221
+              "id": 221,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 220
+          "id": 220,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "4": {
           "title": "What is MCR for new engines",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 223
+              "id": 223,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 222
+          "id": 222,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "5": {
           "title": "What is existing engine MCR",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 225
+              "id": 225,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 224
+          "id": 224,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "6": {
           "title": "Compare the two engines",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 227
+              "id": 227,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 226
+          "id": 226,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "7": {
           "title": "What is normal life span of auxiliary systems selected",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 229
+              "id": 229,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 228
+          "id": 228,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "8": {
           "title": "What are common problems with LNG auxiliary systems",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 231
+              "id": 231,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 230
+          "id": 230,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "9": {
           "title": "How do these problems impact on the life span of auxiliary systems",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 233
+              "id": 233,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 232
+          "id": 232,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         },
         "10": {
           "title": "What are auxy systems MCR and how does this impact lifespan",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 235
+              "id": 235,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 234
+          "id": 234,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            }
+          }
         }
       },
       "id": 215,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#ff6600"
         }
       }
     },
@@ -1277,137 +2415,267 @@
           "ideas": {
             "1": {
               "title": "B",
-              "id": 238
+              "id": 238,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 237
+          "id": 237,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "2": {
           "title": "How will size of auxy's affect access in engine room",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 240
+              "id": 240,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 239
+          "id": 239,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "3": {
           "title": "How will new plant and tanks impact on access in engine room",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 242
+              "id": 242,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 241
+          "id": 241,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "4": {
           "title": "How will free surface effect be minimised in tanks",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 244
+              "id": 244,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 243
+          "id": 243,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "5": {
           "title": "Find out where existing structural A60 bulkheads are",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 246
+              "id": 246,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 245
+          "id": 245,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "6": {
           "title": "Find out how much space auxy plant will occupy",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 248
+              "id": 248,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 247
+          "id": 247,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "7": {
           "title": "Find out existing engine dimensions",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 250
+              "id": 250,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 249
+          "id": 249,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "8": {
           "title": "Find out new engine dimensions",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 252
+              "id": 252,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 251
+          "id": 251,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "9": {
           "title": "Find out if there will be enough space for new plant",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 254
+              "id": 254,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 253
+          "id": 253,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "10": {
           "title": "Find out how new plant will affect existing bulkheads",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 256
+              "id": 256,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 255
+          "id": 255,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "11": {
           "title": "What type will new tanks be",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 258
+              "id": 258,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 257
+          "id": 257,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "12": {
           "title": "How will size of new plant and auxy's impact on cargo and pasy space",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 260
+              "id": 260,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 259
+          "id": 259,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "13": {
           "title": "Determine where any shoreside installation would be located",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 262
+              "id": 262,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 261
+          "id": 261,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         }
       },
       "id": 236,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#000080"
         }
       }
     },
@@ -1419,137 +2687,267 @@
           "ideas": {
             "1": {
               "title": "E",
-              "id": 265
+              "id": 265,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 264
+          "id": 264,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "2": {
           "title": "Decide on pref trip sequence of auxy's",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 267
+              "id": 267,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 266
+          "id": 266,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "3": {
           "title": "Determine how power will be generated on board after refit",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 269
+              "id": 269,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 268
+          "id": 268,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "4": {
           "title": "Determine how flow rate of gas is monitored",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 271
+              "id": 271,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 270
+          "id": 270,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "5": {
           "title": "Find out flow rate of LNG to auxy's",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 273
+              "id": 273,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 272
+          "id": 272,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "6": {
           "title": "Find out correct capacity of compressor for supply of LNG to engine",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 275
+              "id": 275,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 274
+          "id": 274,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "7": {
           "title": "Find flow rate of LNG gas to engine",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 277
+              "id": 277,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 276
+          "id": 276,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "8": {
           "title": "Find effect of elbows in pipes on flow of gas",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 279
+              "id": 279,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 278
+          "id": 278,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "9": {
           "title": "Find out auto system to be installed to give correct flow rate",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 281
+              "id": 281,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 280
+          "id": 280,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "10": {
           "title": "Find out effect of auxy's on ships power supply",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 283
+              "id": 283,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 282
+          "id": 282,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "11": {
           "title": "Find out how wiring should be carried out safely",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 285
+              "id": 285,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 284
+          "id": 284,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "12": {
           "title": "Decide how LNG auxy's are connected to switchboard",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 287
+              "id": 287,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 286
+          "id": 286,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         },
         "13": {
           "title": "Estimate new power demand",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 289
+              "id": 289,
+              "attr": {
+                "style": {
+                  "background": "#993366"
+                }
+              }
             }
           },
-          "id": 288
+          "id": 288,
+          "attr": {
+            "style": {
+              "background": "#993366"
+            }
+          }
         }
       },
       "id": 263,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#993366"
         }
       }
     },
@@ -1561,27 +2959,47 @@
           "ideas": {
             "1": {
               "title": "W",
-              "id": 292
+              "id": 292,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
             }
           },
-          "id": 291
+          "id": 291,
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
         },
         "2": {
           "title": "Find out how best to implement redundancy",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 294
+              "id": 294,
+              "attr": {
+                "style": {
+                  "background": "#ff0000"
+                }
+              }
             }
           },
-          "id": 293
+          "id": 293,
+          "attr": {
+            "style": {
+              "background": "#ff0000"
+            }
+          }
         }
       },
       "id": 290,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#ff0000"
         }
       }
     },
@@ -1593,68 +3011,134 @@
           "ideas": {
             "1": {
               "title": "B",
-              "id": 297
+              "id": 297,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 296
+          "id": 296,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "2": {
           "title": "Find out efficiency requirements that must be met",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 299
+              "id": 299,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 298
+          "id": 298,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "3": {
           "title": "Find out what testing pressure is reqd in bar",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 301
+              "id": 301,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 300
+          "id": 300,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "4": {
           "title": "Find out what sea trial tests are reqd after new plant is installed",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 303
+              "id": 303,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 302
+          "id": 302,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "5": {
           "title": "Find out method that will be used to conduct cold brittleness test",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 305
+              "id": 305,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 304
+          "id": 304,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         },
         "6": {
           "title": "Find out points of system which must be visually inspected",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 307
+              "id": 307,
+              "attr": {
+                "style": {
+                  "background": "#00ffff"
+                }
+              }
             }
           },
-          "id": 306
+          "id": 306,
+          "attr": {
+            "style": {
+              "background": "#00ffff"
+            },
+            "collapsed": true
+          }
         }
       },
       "id": 295,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#00ffff"
+        },
+        "collapsed": true
       }
     },
     "20": {
@@ -1665,67 +3149,127 @@
           "ideas": {
             "1": {
               "title": "W",
-              "id": 310
+              "id": 310,
+              "attr": {
+                "style": {
+                  "background": "#00ff00"
+                }
+              }
             }
           },
-          "id": 309
+          "id": 309,
+          "attr": {
+            "style": {
+              "background": "#00ff00"
+            }
+          }
         },
         "2": {
           "title": "Identify RF's priorities as a business",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 312
+              "id": 312,
+              "attr": {
+                "style": {
+                  "background": "#00ff00"
+                }
+              }
             }
           },
-          "id": 311
+          "id": 311,
+          "attr": {
+            "style": {
+              "background": "#00ff00"
+            }
+          }
         },
         "3": {
           "title": "Find out how much RF spend on overheads and costs (get accounts)",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 314
+              "id": 314,
+              "attr": {
+                "style": {
+                  "background": "#00ff00"
+                }
+              }
             }
           },
-          "id": 313
+          "id": 313,
+          "attr": {
+            "style": {
+              "background": "#00ff00"
+            }
+          }
         },
         "4": {
           "title": "Find out what space ship requires for cargo/pasy",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 316
+              "id": 316,
+              "attr": {
+                "style": {
+                  "background": "#00ff00"
+                }
+              }
             }
           },
-          "id": 315
+          "id": 315,
+          "attr": {
+            "style": {
+              "background": "#00ff00"
+            }
+          }
         },
         "5": {
           "title": "Find out what space is available for tanks",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 318
+              "id": 318,
+              "attr": {
+                "style": {
+                  "background": "#00ff00"
+                }
+              }
             }
           },
-          "id": 317
+          "id": 317,
+          "attr": {
+            "style": {
+              "background": "#00ff00"
+            }
+          }
         },
         "6": {
           "title": "Find out regulations for LNG on pasy vessels",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 320
+              "id": 320,
+              "attr": {
+                "style": {
+                  "background": "#00ff00"
+                }
+              }
             }
           },
-          "id": 319
+          "id": 319,
+          "attr": {
+            "style": {
+              "background": "#00ff00"
+            }
+          }
         }
       },
       "id": 308,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#00ff00"
         }
       }
     },
@@ -1737,37 +3281,67 @@
           "ideas": {
             "1": {
               "title": "B",
-              "id": 323
+              "id": 323,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
             }
           },
-          "id": 322
+          "id": 322,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
         },
         "2": {
           "title": "Find out how LNG system must be stored to avoid degredation",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 325
+              "id": 325,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
             }
           },
-          "id": 324
+          "id": 324,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
         },
         "3": {
           "title": "Find out how parts of plant must be sealed to prevent corrosion",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 327
+              "id": 327,
+              "attr": {
+                "style": {
+                  "background": "#ffcc99"
+                }
+              }
             }
           },
-          "id": 326
+          "id": 326,
+          "attr": {
+            "style": {
+              "background": "#ffcc99"
+            }
+          }
         }
       },
       "id": 321,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#ffcc99"
         }
       }
     },
@@ -1779,147 +3353,287 @@
           "ideas": {
             "1": {
               "title": "A",
-              "id": 330
+              "id": 330,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 329
+          "id": 329,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "2": {
           "title": "Find out who is responsible for testing",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 332
+              "id": 332,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 331
+          "id": 331,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "3": {
           "title": "Find out regs for installation of heads",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 334
+              "id": 334,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 333
+          "id": 333,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "4": {
           "title": "How can existing FF system be incorporated into new",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 336
+              "id": 336,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 335
+          "id": 335,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "5": {
           "title": "Find out what fixed FF is in place",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 338
+              "id": 338,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 337
+          "id": 337,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "6": {
           "title": "Find number of gas heads to be installed",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 340
+              "id": 340,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 339
+          "id": 339,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "7": {
           "title": "Find out type of gas heads that are suitable",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 342
+              "id": 342,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 341
+          "id": 341,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "8": {
           "title": "Decide if this is suitable for new plant",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 344
+              "id": 344,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 343
+          "id": 343,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "9": {
           "title": "Find routine fire testing tasks",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 346
+              "id": 346,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 345
+          "id": 345,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "10": {
           "title": "Get current Fire safety plan",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 348
+              "id": 348,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 347
+          "id": 347,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "11": {
           "title": "What are safety regs for installing LNG on ships",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 350
+              "id": 350,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 349
+          "id": 349,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "12": {
           "title": "How do we set up N2 lines for purging",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 352
+              "id": 352,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 351
+          "id": 351,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "13": {
           "title": "How to arrange auxy's to minimise fire hazards",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 354
+              "id": 354,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 353
+          "id": 353,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         },
         "14": {
           "title": "What are LNG spill drills required?",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 356
+              "id": 356,
+              "attr": {
+                "style": {
+                  "background": "#000080"
+                }
+              }
             }
           },
-          "id": 355
+          "id": 355,
+          "attr": {
+            "style": {
+              "background": "#000080"
+            }
+          }
         }
       },
       "id": 328,
       "attr": {
         "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
+          "background": "#000080"
         }
       }
     },
@@ -1931,88 +3645,168 @@
           "ideas": {
             "1": {
               "title": "E",
-              "id": 359
+              "id": 359,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 358
+          "id": 358,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         },
         "2": {
           "title": "Find out how personnel will be trained for bunkering LNG",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 361
+              "id": 361,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 360
+          "id": 360,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         },
         "3": {
           "title": "Determine team responsibilities for LNG plant",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 363
+              "id": 363,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 362
+          "id": 362,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         },
         "4": {
           "title": "Decide if manning requirements will change",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 365
+              "id": 365,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 364
+          "id": 364,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         },
         "5": {
           "title": "Find out training and certification personnel need to operate LNG engines",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 367
+              "id": 367,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 366
+          "id": 366,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         },
         "6": {
           "title": "Decide how to train them without affecting operating schedule",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 369
+              "id": 369,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 368
+          "id": 368,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         },
         "7": {
           "title": "Write operational procedures in plain english",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 371
+              "id": 371,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 370
+          "id": 370,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         },
         "8": {
           "title": "Find out how personnel will be trained in LNG safety",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 373
+              "id": 373,
+              "attr": {
+                "style": {
+                  "background": "#008080"
+                }
+              }
             }
           },
-          "id": 372
+          "id": 372,
+          "attr": {
+            "style": {
+              "background": "#008080"
+            }
+          }
         }
       },
       "id": 357,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#008080"
+        },
+        "collapsed": true
       }
     },
     "24": {
@@ -2023,38 +3817,68 @@
           "ideas": {
             "1": {
               "title": "E",
-              "id": 376
+              "id": 376,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             }
           },
-          "id": 375
+          "id": 375,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
         },
         "2": {
           "title": "Estimate duration of refit",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 378
+              "id": 378,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             }
           },
-          "id": 377
+          "id": 377,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
         },
         "3": {
           "title": "Determine time to retrain crew",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 380
+              "id": 380,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             }
           },
-          "id": 379
+          "id": 379,
+          "attr": {
+            "style": {
+              "background": "#99cc00"
+            }
+          }
         }
       },
       "id": 374,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#99cc00"
+        },
+        "collapsed": true
       }
     },
     "25": {
@@ -2065,78 +3889,148 @@
           "ideas": {
             "1": {
               "title": "B",
-              "id": 383
+              "id": 383,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 382
+          "id": 382,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "2": {
           "title": "What processing does LNG go through before injection",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 385
+              "id": 385,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 384
+          "id": 384,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "3": {
           "title": "Explain this in simple terms with suitable illustrations",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 387
+              "id": 387,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 386
+          "id": 386,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "4": {
           "title": "Investigate how a DF LNG engine works",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 389
+              "id": 389,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 388
+          "id": 388,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "5": {
           "title": "How fuel is stored in LNG system",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 391
+              "id": 391,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 390
+          "id": 390,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "6": {
           "title": "How is it ignited and combusted",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 393
+              "id": 393,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 392
+          "id": 392,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         },
         "7": {
           "title": "How does LNG affect lubrication of cylinders",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 395
+              "id": 395,
+              "attr": {
+                "style": {
+                  "background": "#0000ff"
+                }
+              }
             }
           },
-          "id": 394
+          "id": 394,
+          "attr": {
+            "style": {
+              "background": "#0000ff"
+            }
+          }
         }
       },
       "id": 381,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#0000ff"
+        },
+        "collapsed": true
       }
     },
     "26": {
@@ -2147,75 +4041,204 @@
           "ideas": {
             "1": {
               "title": "A",
-              "id": 398
+              "id": 398,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 397
+          "id": 397,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            },
+            "collapsed": true
+          }
         },
         "2": {
           "title": "Calculate potential fuel savings",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 400
+              "id": 400,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 399
+          "id": 399,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            },
+            "collapsed": true
+          }
         },
         "3": {
           "title": "Find out how much it costs to run engines on LNG a day",
           "ideas": {
             "1": {
               "title": "E",
-              "id": 402
+              "id": 402,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 401
+          "id": 401,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            },
+            "collapsed": true
+          }
         },
         "4": {
           "title": "Find out cost per day to run engines on diesel",
           "ideas": {
             "1": {
               "title": "W",
-              "id": 404
+              "id": 404,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 403
+          "id": 403,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            },
+            "collapsed": true
+          }
         },
         "5": {
           "title": "Find out difference in emissions between LNG and Diesel",
           "ideas": {
             "1": {
               "title": "A",
-              "id": 406
+              "id": 406,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 405
+          "id": 405,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            },
+            "collapsed": true
+          }
         },
         "6": {
           "title": "Find out ship's current daily fuel consumption",
           "ideas": {
             "1": {
               "title": "B",
-              "id": 408
+              "id": 408,
+              "attr": {
+                "style": {
+                  "background": "#ff6600"
+                }
+              }
             }
           },
-          "id": 407
+          "id": 407,
+          "attr": {
+            "style": {
+              "background": "#ff6600"
+            },
+            "collapsed": true
+          }
         }
       },
       "id": 396,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#E0E0E0"
-        }
+          "background": "#ff6600"
+        },
+        "collapsed": true
       }
     },
     "-1": {
       "title": "Hi, Tasks allocated A=Ahmed, B=Branley, E=Ebo, W=Warrie click a heading and press 'f' to fold and unfold them",
-      "id": 409
+      "id": 409,
+      "attr": {
+        "style": {
+          "background": "#ff6600"
+        }
+      }
     }
   },
   "formatVersion": 2,
-  "id": 1
+  "id": 1,
+  "attr": {
+    "progress-statuses": {
+      "1": {
+        "description": "Not Started"
+      },
+      "blocked": {
+        "description": "Blocked",
+        "icon": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0MzOEVGNDcyMDg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBNUZEOUJEQzI4OTUxMUUzQUFENUExOTAyMkIzNDA4MyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBNUZBNTZGMjI4OTUxMUUzQUFENUExOTAyMkIzNDA4MyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MEE4MDExNzQwNzIwNjgxMThBNkREMjU1OTlDRjBDRkMiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNDMzhFRjQ3MjA4NTciLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz76WOouAAAD/klEQVR42sxaTUgVURS+bzIXpmGRBkVmZZm2UMygIBArbBFtAv8okHYZkW5qaWG7XJRFiZsQoVKDFrVKRWvlIis3/bwstQIhC7ISF0+yzvGd0eH1Zt45M/PuvA++xXvcued8M/fe8zMTKi8vVz5hC7ASiBMWAvOBG4BrgCHgHPA7cAoYBo4Ch4Ff/DCe5vH6PGADsA5YnGDseuIuYJXl/zfAHmA38JNbRwyX15UA+4CTwFaGCCcU0xwTNGeJDiG5wC7gK2C1hxth50s1zd1FtpIipJrWdgOt+WQhRDbCZNM3IenA2/TYs5U+ZJPNDvLBk5BM4GNgowoOZ8iHTLdCMoD9MSdMUKgiXzKkQtLpLhxQqQP05ZHdMrMTch14SKUeDgPbuQGx1sOeWAAOAgeAL4DjwN90EmUBdwNLgUfpRqW53DPPKIiuHHUxKcom4GsXp9Ms3albwG/MazYDnwILXIhBe3uA03ZLq82FiF6605cFIvAJXXQpwjya2+z2SBmwXjDZH+A5yrO+CgMe7sHzHvdLPfn8n5AWQcRGETW0lFQAIsy5WmKFbAUeF0yCjjwMUIQJ9HmbVcgpQd7VQylL0CJM/09bhZwUnBbNKSLCGi6WhGBlV8S8qF3jxg4zx2Ghtt0QRPAF4eb2IuIGsIJsclBpUI3NwaAwTngR0UxPfph5TalBj4aDAY0i/tLvfuZ1hShkB3PwqGYRivI1Dpb2SA5z8AfNIjg2l1MWFLKWOfhnAhHXfBZhHvccZBnCU8hJRJPPIpTD/3Ej4y/m2HWaRSiqYTiYMwRHaoFmEUpwEP1AIR+Zg/dqFoHYx5xzAoW8F3QydIpQgg5O2GDGh6U0ALhRowgMC0eYY8ew+B9iDl5NRX+hBhGIs2STg2F8Ivh+4i03FdAkIkdQLoybewRxN0m1ghsRZrnAbYL0WgsrFLKYIiIaBU0Q9PmOVciUirZIgxZxAnhTMB59noztolxxYdhPEdhBxNcIq5jjcf7WeO0gTJnvByAil+x2CEQouuZlPCGIC4KMM16af1UYJy5RbV4ntDVLvi4jtok8TZvNzZMpoL2GcekJBingOxVtYi9SArgTeBB4DLhf+ARiD4RpJyFm36qC1qwUaZRWJPPlUKeK6cTHW1ommgQRXyeG7Io3OyERFW1HjqSQiBHyKSIRgphXK+/ugob5LnPeqUJ0rLzoLnQGKKKTfJhLVOomQoQ2fo2Ho9kN0FYt2Y5wanYuHlD22+1TBuAUsbvJVp+k+SDBjIp+XlFGwvxMNBdpzjKyMSM9991gjJaa+ZkTZqtFLufCoHlPefzMKeTjh2d5VA5jwwD7yfkq+uFZpuXgMD88wz7BcxVtUn/2w/g/AQYATf3vdFyJ9B8AAAAASUVORK5CYII=",
+          "width": 25,
+          "height": 25,
+          "position": "left"
+        },
+        "priority": "4"
+      },
+      "in-progress": {
+        "description": "In Progress",
+        "icon": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0MzOEVGNDcyMDg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBNTRCRkVBRTI4OTUxMUUzQUFENUExOTAyMkIzNDA4MyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBNTRCRkVBRDI4OTUxMUUzQUFENUExOTAyMkIzNDA4MyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MEE4MDExNzQwNzIwNjgxMThBNkREMjU1OTlDRjBDRkMiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNDMzhFRjQ3MjA4NTciLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6e51A1AAAE8klEQVR42sxZaWhVRxS+aRaNmphUozVEo6KlVGMrRkERF9yqKIpLq1hMa0xT6g//RBRtLaKNP/SfqLhEIS64gaDiriDWUIriEkWh0MRUigZtE1ITfYlPz9HvwTDMzJv73rzbd+AjNzNnzr3fvTNneynFxcVeEskjQj9cNxAKbRd+kEQkigQSHq6LkplID8JQxfhMxdgsxdhQ2PhfifADXCTcIVQR+hMWE64TNir0N2BuMXSrsPaSTCYlwDMSITFcGHvDz2C5Xta9TZhMeB70F8knDJPGUnysl3WHwWbgW6uWUO3QXjVsBr61PLjTOs2X+JNwiHBX8GJ8NgZqttkAuOt3khbwYR+tIMEPtYmwnhASxo/BAawjrJHW8fUYkUhqfn5+kES2K4Lcejzsa4U+j13B9QRprjdhX9BEeJuUEr6R3uwfhIWEcJT17IIXSS63gNBOaCY0BnHY67DvKxXO5TChw8IG6xxRxMBK2K4Lgkh/w9wdH3Zum+6RTLlWXBIEkQbD3Gc+7HxuukcQRArxwGsVh3qhZQhgna+ksTBssu3CoLzWU8I1whQpVe+BB7oaZf1PhHnSWA3hW9gOPI60EeZLY+Pxxq8rYkkG4WfEGTmQribc8xtHcgnlSKPr4f9Vkkc4Q+hJeEB4Kc23EFYoovQ4pCN5WDsE224nYY4mG6hADLHKtbIIWwlfEjIxxotHKsjw27tMGIv/WwkH4evrMbYX28GFcFRfauu1OhFKBBIs3QknCN1wnSWkH2MFvS6EMsIIIbqXONymJWIpHM1jPEMilyGND8E2iQinCukaG3/h798IgK4Kq7uwaR1HnljopBvmIkSew2vdgqfahxT9a3igN5qHr4HOQGzNsFwd2pyRXDAviGML9BRvCJfbR/Q4EE7Vf5HG1uKMybvhiWTT+EUK8DYK4tzLNSiCPOHL3FPonbIcuy+TEIlwkJpLGIW3lQM3+omDQ/kx4QJsil8pW1EKN0ipTa3tTSKH/Ud4GD+H8AVuFkaG29WgOwgHPQUFUQZq7hJFOhNz0piLw2Tb3eC3O5XwIeFTNMxycJDPGdbxV+8reMAFsOEs+y2V4oROXiO6T0N/KiQVPtw0m074XlO2ysL3XOKSyGxL3eWEXRZ6nFb8YGmzzCWReUjYTHIRD2grTPh8FJ0mwiqXRBoJk5AQ6mRzDLa3GObuw0OedkVEDoghRZRuRU7V4dM22/kHOZkq0DYlqtTN0aQa9TGQiORfjzVzGYms2XXGU+Owr+tXhRJJ5JUhVUmPwXaaphXU7npbiUQGGzxXV5SjfmUiahLV2dnjensxkRmE35FV6mRlDLYrDHOlqCZ7uSSyWUroVDLVZ/AqxxqTcDV53CWR3Za6OwjfWegtI2yztHnSJZFqtGmiSSqi+1lUZ2nSvp+MaL7b0tO1oeJzImkIWkeRUocQ6cNSI02ULwBO4+vwMvppAp+p5j6AezuN7NnwIs+E/tRvnvpnr1ikFr2rTCGdvyG0iZynKKIMwFYZHOc9HqJWeewlUEw1O2+b0Zruhq3ww49JNAmbdlC65++3cFWK8q8XgEQj0tcwZ5NIfuQFJNGI6DxXFb5WNoJpFmoMVZablwxEbiIutApjvwqlLLdNuan9n/e+a94s6HEnfr8hGXUq0X5W4Cz1FKI6u+bOKI1bFLocE7gryb3dSsSlQ0EReSvAABryAmWpWiFbAAAAAElFTkSuQmCC",
+          "width": 25,
+          "height": 25,
+          "position": "left"
+        },
+        "priority": "3"
+      },
+      "parked": {
+        "description": "Parked",
+        "icon": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0MzOEVGNDcyMDg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBNUM1NTdBNDI4OTUxMUUzQUFENUExOTAyMkIzNDA4MyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBNUM1NTdBMzI4OTUxMUUzQUFENUExOTAyMkIzNDA4MyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MEE4MDExNzQwNzIwNjgxMThBNkREMjU1OTlDRjBDRkMiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNDMzhFRjQ3MjA4NTciLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz5c0wXQAAABtElEQVR42uyZvU7DMBDHE6iQmCqFLerMwpqIqS/QZ6AbmTuBxMyCQCxdOlB1SR4DMfUR+ggUJsKKilA4i4tkpbZxojq12zvpr6Zp0rufPy5nxy+KwtsF8wmEQAhkP0A6cRzLfjsCPYAuQMGW48xBGegKtBJdcBiGoezmR9AIdGxBg7MYzrFxn0UXHChuHuJnnw3BLauPsSSyYFUg5XCaW9Aj80pMtUCcMgIhEAIhEPdAeqAZ6BXECq8laGJxzBOMsYyVxd7zoyhawMGZqrC0BEBV3S5Yj3zvwMj6YSAD0BS7SdYSNkhkS4x9wEDesRjLHOyJDGN/47NW4iBIIkq/gYMgAT0QCYRANgeywk2IADWS7WRsyBr562j88TVozH0f467GnSGQRv5YrfVfLXPi/e0rVdPehyGQuv78vZsjQ8G5S4MxNfKnM0fucdilnKNbgyCN/OnMEdttbY7kDkLkojmSOggyLQ/43fgXUBd06tmxA6+yT9AT6IatDqtzRHeN3NYavpZ/KhpdAsk1zxnPSDr+VSCpKku0YLX8q94h8lnsq5olWrBa/uk9O4EQCIG4Zb8CDADwMJeiCTV1YAAAAABJRU5ErkJggg==",
+          "width": 25,
+          "height": 25,
+          "position": "left"
+        },
+        "priority": "2"
+      },
+      "under-review": {
+        "description": "Under review",
+        "icon": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0MzOEVGNDcyMDg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBNTYwM0E5QTI4OTUxMUUzQUFENUExOTAyMkIzNDA4MyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBNTVEOTQxNjI4OTUxMUUzQUFENUExOTAyMkIzNDA4MyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MEE4MDExNzQwNzIwNjgxMThBNkREMjU1OTlDRjBDRkMiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNDMzhFRjQ3MjA4NTciLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz528969AAAC8klEQVR42tSYzUtUURiH7yQKuTHTbNEuSAUXhYy0GKIUciAXgUa1FKTCxtLZu7Nt5SgaZX9AZoabsBL8oA+QCGohKIW7FmlGHxBUhP1e+F24xExz73jec+898HDfM8p7zjMz551zTiKZTDo+WjlIg5OgBRwEe/i3L2AdvAJz4An47VhuiSIiMtkBkAG1PnNugnEwTMnQRc5zMvvZfwumwQvwgUg7QFKgCxzm6xugH9wLS6QMjIJe9hfBIAX8NBG6Bk6wfwtcAX80RXblkbhPiR/gImgNIOHwf9vAJeboZc4ymyI50Ak+czITJebdBneYY4s5c7ZEznFRy7t4CiwbyC85OpgzwzFURaQ6jTDOGpLwymQZj3jKtoqIlNg6LuwJhXEk5wLHGNASqQCX2R/k99t022Zuh2NVaIi0g33gTcDqFLS9BKscK60lIu2hhd+tGT7bNUSaGT+zIPKUz2YNkXrGaxZEVvk8pCFSxXjLgog7RpX2L7t2cytiQkPkK+MaCyK1njOMcZF3jBstiDTw+V5D5DXjtAWRY3wuaYjMMT5tQaTznzJsVESSfuJXK6UoIbmPcKznGiI/wRj7QxoVhTmHGI9pXE645XeYZ2w5DV5QEMkw90dwQ3MbL+XwKuOb4KjBMeSUeJ1xH/imfUKc5MdeCR4ZkpEcU9y2yxXRA1tn9n7ugmt4EOrZwZqRi4t5sJf949zCWxGRK5uzvMLZDe5yMqmA1UnehNvMIZcOK6CJr6vIFLugy/F46vDgNc3SucYy6m47GihwhiXWYfHoBrOc/AJlVrjwN22JuJcSWVYdv3uxDa4HqU7fPa+ryiQCXmLLyc69xK7m+pGt+To/qcd8/iqQR03Gr4jJpiJj+zzicNKtpgtAGCIqMmGJGJcJU8SoTNgixmSiIGJEJioihWTq4iiST2ber0zUREqWiaJISTJRFQksE2WRQDJRF/EtEwcRXzJxESkqEyeR/8rETaSgTBxF8slMxlXEK7MI+v4KMACxSscdFNQK5AAAAABJRU5ErkJggg==",
+          "width": 25,
+          "height": 25,
+          "position": "left"
+        }
+      },
+      "passing": {
+        "description": "Done",
+        "icon": {
+          "url": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDowMjgwMTE3NDA3MjA2ODExODA4M0MzOEVGNDcyMDg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDpBNEFDMjZDOTI4OTUxMUUzQUFENUExOTAyMkIzNDA4MyIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDpBNEFDMjZDODI4OTUxMUUzQUFENUExOTAyMkIzNDA4MyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChNYWNpbnRvc2gpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MEE4MDExNzQwNzIwNjgxMThBNkREMjU1OTlDRjBDRkMiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MDI4MDExNzQwNzIwNjgxMTgwODNDMzhFRjQ3MjA4NTciLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6LMRsBAAAC70lEQVR42uyaXYhMYRjHz5j1uVJISVKbSMmFi8Fa1ld2Q+S7FCtlWy5cqN0VEVeIbJuLRT5KNlbJ58gFNspibVvkozQXKJQNS7KLaPyf9jn1enrNzuycOee82/vU72KeOb0z/3Pej//zzESSyaTTG6KP00vCCrFCrBArxKzIi8Vipn73RWALWA46TH0iW8EVUArOgWieYQL6gjqwUcktASdNEjIMXABzRL4TXDdFyHgQB+NE/j1YClpMWCPzwEONiMdgKokwYfvdBG6AoSJ/CcwAb8N+jkRBLTjCC1yN/WAl+P7PORJCEUNAA1gg8j9BBTitPRBDJqIAXAMTRf4jWAbumWBRaM43a0Q8B1NSiQiTkDJwC4wQeVroReBV2E0jff5envf9xXuHwWLwNS3TGKCIfHCG574av9kMHs3I/QYkYjS4CiaLfDtYBW5nbOMDEEF1w2UwSuQTPJVemlBY0d2+qxFxB0zrqQg/hUTALnAeDBTvnQAl4HNWFaIPIgaAU2CNyP8B1aDG65p9Dyj0WMRI0KgR8Y3td41XH+QKOQh2g5tgvkdjT+KTWt6cN3zIxb0+kA6BSmVvj/OizCZo97kPxoj8A7YbT3NxsiZ4vrrRjwv68h6OWcn1wmCRrwdzQVuuLAKdoGvBL1EPHANVGYxFN+A4T9OokqffLXayn/qRqx3F3bUa2NNQcT9I2TIPgOFgO3+hVI2Bi2CWyHeA9Txuzk2b6jRpP/8irtnGTyf6nzEmgEcaEdQYKPZDhO5AbAKzwQeRp/VylqePGiW8qMeKfCsv6lY/bbSMJ2AmeC3yq9no5fPrzdRP0jQG3Cn2zu96QBcJrtheiHwpnzV1jHQG+3SNgSCFOHxHi92+kRKF/DRkY2Ad2NHNphCIEIpPTleDrDHFNW18TX3QpWZ3Qb5oodPV/ZbxjO13U9BFf7o2nqbOCtFTou16ejqNAT8iExtPNmaDUjdUCWsTaETsPx+sECvECrFCrJAs4q8AAwCWn4sqVVd8mQAAAABJRU5ErkJggg==",
+          "width": 25,
+          "height": 25,
+          "position": "left"
+        }
+      }
+    },
+    "style": {
+      "background": "#22AAE0"
+    }
+  }
 }
