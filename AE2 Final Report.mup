@@ -361,10 +361,10 @@
       },
       "id": 28,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#ff6600"
-        }
+        },
+        "collapsed": true
       }
     },
     "3": {
@@ -378,7 +378,7 @@
               "id": 41,
               "attr": {
                 "style": {
-                  "background": "#808000"
+                  "background": "#3366ff"
                 }
               }
             }
@@ -386,8 +386,9 @@
           "id": 40,
           "attr": {
             "style": {
-              "background": "#808000"
-            }
+              "background": "#3366ff"
+            },
+            "collapsed": true
           }
         },
         "2": {
@@ -398,7 +399,7 @@
               "id": 43,
               "attr": {
                 "style": {
-                  "background": "#808000"
+                  "background": "#3366ff"
                 }
               }
             }
@@ -406,8 +407,9 @@
           "id": 42,
           "attr": {
             "style": {
-              "background": "#808000"
-            }
+              "background": "#3366ff"
+            },
+            "collapsed": true
           }
         },
         "3": {
@@ -418,7 +420,7 @@
               "id": 45,
               "attr": {
                 "style": {
-                  "background": "#808000"
+                  "background": "#3366ff"
                 }
               }
             }
@@ -426,8 +428,9 @@
           "id": 44,
           "attr": {
             "style": {
-              "background": "#808000"
-            }
+              "background": "#3366ff"
+            },
+            "collapsed": true
           }
         },
         "4": {
@@ -438,7 +441,7 @@
               "id": 47,
               "attr": {
                 "style": {
-                  "background": "#808000"
+                  "background": "#3366ff"
                 }
               }
             }
@@ -446,8 +449,9 @@
           "id": 46,
           "attr": {
             "style": {
-              "background": "#808000"
-            }
+              "background": "#3366ff"
+            },
+            "collapsed": true
           }
         },
         "5": {
@@ -458,7 +462,7 @@
               "id": 49,
               "attr": {
                 "style": {
-                  "background": "#808000"
+                  "background": "#3366ff"
                 }
               }
             }
@@ -466,17 +470,18 @@
           "id": 48,
           "attr": {
             "style": {
-              "background": "#808000"
-            }
+              "background": "#3366ff"
+            },
+            "collapsed": true
           }
         }
       },
       "id": 39,
       "attr": {
-        "collapsed": true,
         "style": {
-          "background": "#808000"
-        }
+          "background": "#3366ff"
+        },
+        "collapsed": true
       }
     },
     "4": {
@@ -525,10 +530,10 @@
       },
       "id": 50,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#ff9900"
-        }
+        },
+        "collapsed": true
       }
     },
     "5": {
@@ -617,10 +622,10 @@
       },
       "id": 55,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#008080"
-        }
+        },
+        "collapsed": true
       }
     },
     "6": {
@@ -689,10 +694,10 @@
       },
       "id": 64,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#00ccff"
-        }
+        },
+        "collapsed": true
       }
     },
     "7": {
@@ -715,8 +720,7 @@
           "attr": {
             "style": {
               "background": "#ff00ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "2": {
@@ -736,8 +740,7 @@
           "attr": {
             "style": {
               "background": "#ff00ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "3": {
@@ -757,8 +760,7 @@
           "attr": {
             "style": {
               "background": "#ff00ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "4": {
@@ -778,8 +780,7 @@
           "attr": {
             "style": {
               "background": "#ff00ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "5": {
@@ -799,8 +800,7 @@
           "attr": {
             "style": {
               "background": "#ff00ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "6": {
@@ -820,8 +820,7 @@
           "attr": {
             "style": {
               "background": "#ff00ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "7": {
@@ -841,8 +840,7 @@
           "attr": {
             "style": {
               "background": "#ff00ff"
-            },
-            "collapsed": true
+            }
           }
         }
       },
@@ -874,8 +872,7 @@
           "attr": {
             "style": {
               "background": "#993366"
-            },
-            "collapsed": true
+            }
           }
         },
         "2": {
@@ -895,8 +892,7 @@
           "attr": {
             "style": {
               "background": "#993366"
-            },
-            "collapsed": true
+            }
           }
         },
         "3": {
@@ -916,8 +912,7 @@
           "attr": {
             "style": {
               "background": "#993366"
-            },
-            "collapsed": true
+            }
           }
         },
         "4": {
@@ -937,8 +932,7 @@
           "attr": {
             "style": {
               "background": "#993366"
-            },
-            "collapsed": true
+            }
           }
         },
         "5": {
@@ -958,8 +952,7 @@
           "attr": {
             "style": {
               "background": "#993366"
-            },
-            "collapsed": true
+            }
           }
         },
         "6": {
@@ -979,8 +972,7 @@
           "attr": {
             "style": {
               "background": "#993366"
-            },
-            "collapsed": true
+            }
           }
         },
         "7": {
@@ -1000,8 +992,7 @@
           "attr": {
             "style": {
               "background": "#993366"
-            },
-            "collapsed": true
+            }
           }
         },
         "8": {
@@ -1021,8 +1012,7 @@
           "attr": {
             "style": {
               "background": "#993366"
-            },
-            "collapsed": true
+            }
           }
         },
         "9": {
@@ -1042,8 +1032,7 @@
           "attr": {
             "style": {
               "background": "#993366"
-            },
-            "collapsed": true
+            }
           }
         },
         "10": {
@@ -1063,8 +1052,7 @@
           "attr": {
             "style": {
               "background": "#993366"
-            },
-            "collapsed": true
+            }
           }
         }
       },
@@ -1096,8 +1084,7 @@
           "attr": {
             "style": {
               "background": "#3366ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "2": {
@@ -1117,8 +1104,7 @@
           "attr": {
             "style": {
               "background": "#3366ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "3": {
@@ -1138,8 +1124,7 @@
           "attr": {
             "style": {
               "background": "#3366ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "4": {
@@ -1159,8 +1144,7 @@
           "attr": {
             "style": {
               "background": "#3366ff"
-            },
-            "collapsed": true
+            }
           }
         }
       },
@@ -1192,8 +1176,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "2": {
@@ -1213,8 +1196,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "3": {
@@ -1234,8 +1216,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "4": {
@@ -1255,8 +1236,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "5": {
@@ -1276,8 +1256,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "6": {
@@ -1297,8 +1276,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "7": {
@@ -1318,8 +1296,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "8": {
@@ -1339,8 +1316,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "9": {
@@ -1360,8 +1336,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "10": {
@@ -1381,8 +1356,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "11": {
@@ -1402,8 +1376,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "12": {
@@ -1423,8 +1396,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         },
         "13": {
@@ -1444,8 +1416,7 @@
           "attr": {
             "style": {
               "background": "#ff99cc"
-            },
-            "collapsed": true
+            }
           }
         }
       },
@@ -1477,8 +1448,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "2": {
@@ -1498,8 +1468,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "3": {
@@ -1519,8 +1488,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "4": {
@@ -1540,8 +1508,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "5": {
@@ -1561,8 +1528,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "6": {
@@ -1582,8 +1548,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "7": {
@@ -1603,8 +1568,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "8": {
@@ -1624,8 +1588,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         }
       },
@@ -1657,8 +1620,7 @@
           "attr": {
             "style": {
               "background": "#ffcc00"
-            },
-            "collapsed": true
+            }
           }
         },
         "2": {
@@ -2400,10 +2362,10 @@
       },
       "id": 215,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#ff6600"
-        }
+        },
+        "collapsed": true
       }
     },
     "16": {
@@ -2672,10 +2634,10 @@
       },
       "id": 236,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#000080"
-        }
+        },
+        "collapsed": true
       }
     },
     "17": {
@@ -2944,10 +2906,10 @@
       },
       "id": 263,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#993366"
-        }
+        },
+        "collapsed": true
       }
     },
     "18": {
@@ -2996,10 +2958,10 @@
       },
       "id": 290,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#ff0000"
-        }
+        },
+        "collapsed": true
       }
     },
     "19": {
@@ -3022,8 +2984,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "2": {
@@ -3043,8 +3004,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "3": {
@@ -3064,8 +3024,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "4": {
@@ -3085,8 +3044,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "5": {
@@ -3106,8 +3064,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         },
         "6": {
@@ -3127,8 +3084,7 @@
           "attr": {
             "style": {
               "background": "#00ffff"
-            },
-            "collapsed": true
+            }
           }
         }
       },
@@ -3266,10 +3222,10 @@
       },
       "id": 308,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#00ff00"
-        }
+        },
+        "collapsed": true
       }
     },
     "21": {
@@ -3338,10 +3294,10 @@
       },
       "id": 321,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#ffcc99"
-        }
+        },
+        "collapsed": true
       }
     },
     "22": {
@@ -3630,10 +3586,10 @@
       },
       "id": 328,
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#000080"
-        }
+        },
+        "collapsed": true
       }
     },
     "23": {
@@ -4052,8 +4008,7 @@
           "attr": {
             "style": {
               "background": "#ff6600"
-            },
-            "collapsed": true
+            }
           }
         },
         "2": {
@@ -4073,8 +4028,7 @@
           "attr": {
             "style": {
               "background": "#ff6600"
-            },
-            "collapsed": true
+            }
           }
         },
         "3": {
@@ -4094,8 +4048,7 @@
           "attr": {
             "style": {
               "background": "#ff6600"
-            },
-            "collapsed": true
+            }
           }
         },
         "4": {
@@ -4115,8 +4068,7 @@
           "attr": {
             "style": {
               "background": "#ff6600"
-            },
-            "collapsed": true
+            }
           }
         },
         "5": {
@@ -4136,8 +4088,7 @@
           "attr": {
             "style": {
               "background": "#ff6600"
-            },
-            "collapsed": true
+            }
           }
         },
         "6": {
@@ -4157,8 +4108,7 @@
           "attr": {
             "style": {
               "background": "#ff6600"
-            },
-            "collapsed": true
+            }
           }
         }
       },
@@ -4170,13 +4120,32 @@
         "collapsed": true
       }
     },
+    "-2": {
+      "title": "click a box then 'f' to fold and unfold them, if you make changes Click 'Save button' top right, Save name 'plan', to add new box click one then 'tab', Ctrl+Z to undo, delete to delete",
+      "id": 410,
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        },
+        "position": [
+          442,
+          -96,
+          1
+        ]
+      }
+    },
     "-1": {
-      "title": "Hi, Tasks allocated A=Ahmed, B=Branley, E=Ebo, W=Warrie click a heading and press 'f' to fold and unfold them, if you make changes Click 'Save button' top right",
+      "title": "Hi, Tasks allocated A=Ahmed, B=Branley, E=Ebo, W=Warrie",
       "id": 409,
       "attr": {
         "style": {
           "background": "#ff6600"
-        }
+        },
+        "position": [
+          237,
+          -162,
+          2
+        ]
       }
     }
   },
