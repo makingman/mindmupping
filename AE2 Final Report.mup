@@ -1,0 +1,2061 @@
+{
+  "title": "AE2 Final Report",
+  "ideas": {
+    "1": {
+      "title": "Meeting 12/03/14 Caroline Rees",
+      "ideas": {
+        "1": {
+          "title": "Info we need to source",
+          "ideas": {
+            "1": {
+              "title": "Efficiency losses from main engine to propellor",
+              "ideas": {
+                "1": {
+                  "title": "John Ridley",
+                  "ideas": {
+                    "1": {
+                      "title": "get advice about efficiency effects on ship operation",
+                      "id": 6
+                    }
+                  },
+                  "id": 5
+                },
+                "2": {
+                  "title": "Rollo Tomkins",
+                  "ideas": {
+                    "1": {
+                      "title": "get efficiency estimates",
+                      "id": 8
+                    }
+                  },
+                  "id": 7
+                }
+              },
+              "id": 4
+            },
+            "2": {
+              "title": "Trim and Stability Assessment book from Red Funnel",
+              "ideas": {
+                "1": {
+                  "title": "Load condition with GZ curve",
+                  "id": 10
+                },
+                "2": {
+                  "title": "KN curves",
+                  "id": 11
+                }
+              },
+              "id": 9
+            }
+          },
+          "id": 3
+        },
+        "2": {
+          "title": "Weight Audit",
+          "ideas": {
+            "1": {
+              "title": "Audit equipment to be removed",
+              "id": 13
+            },
+            "2": {
+              "title": "Identify new weights to be added",
+              "id": 14
+            },
+            "3": {
+              "title": "Get trim and stability curve with GZ curve, get KN curves",
+              "id": 15
+            }
+          },
+          "id": 12
+        },
+        "3": {
+          "title": "Space Audit",
+          "ideas": {
+            "1": {
+              "title": "Are there sufficient channels available in MacY control system for new sensors",
+              "id": 17
+            },
+            "2": {
+              "title": "Is there sufficient space and power in electrical switchboards",
+              "id": 18
+            },
+            "3": {
+              "title": "Where are we going to put fuel,, how much space do we have to put it in?",
+              "id": 19
+            },
+            "4": {
+              "title": "Identify space available, can it accommodate new equipment?",
+              "id": 20
+            },
+            "5": {
+              "title": "Can space accommodate new pipes, restrictions on bending them",
+              "id": 21
+            },
+            "6": {
+              "title": "How often do we need to bunker, how much?",
+              "id": 22
+            }
+          },
+          "id": 16
+        },
+        "4": {
+          "title": "Regulations",
+          "ideas": {
+            "1": {
+              "title": "Fire",
+              "id": 24
+            },
+            "2": {
+              "title": "Proximity of fuels to one another",
+              "id": 25
+            }
+          },
+          "id": 23
+        },
+        "5": {
+          "title": "Stability Changes",
+          "ideas": {
+            "1": {
+              "title": "Produce new GZ curve using new equipment information",
+              "id": 27
+            }
+          },
+          "id": 26
+        }
+      },
+      "id": 2
+    },
+    "2": {
+      "title": "Ergonomics",
+      "ideas": {
+        "1": {
+          "title": "Find out exact model of Wartsila engines that will be used",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 30
+            }
+          },
+          "id": 29
+        },
+        "2": {
+          "title": "Find out exact deck location where LNG tanks are installed",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 32
+            }
+          },
+          "id": 31
+        },
+        "3": {
+          "title": "Find out how much intrinsic lighting is required",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 34
+            }
+          },
+          "id": 33
+        },
+        "4": {
+          "title": "Find out quantity of paint to be used",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 36
+            }
+          },
+          "id": 35
+        },
+        "5": {
+          "title": "Find out size of DF engine",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 38
+            }
+          },
+          "id": 37
+        }
+      },
+      "id": 28
+    },
+    "3": {
+      "title": "Redundancy",
+      "ideas": {
+        "1": {
+          "title": "Find out which systems don't comply with required red. and find solution",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 41
+            }
+          },
+          "id": 40
+        },
+        "2": {
+          "title": "Find out if any existing equipment must be changed to comply with red. regs",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 43
+            }
+          },
+          "id": 42
+        },
+        "3": {
+          "title": "Find out minimum level of redundancy on board",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 45
+            }
+          },
+          "id": 44
+        },
+        "4": {
+          "title": "Find out any legislation for redundancy on LNG ships",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 47
+            }
+          },
+          "id": 46
+        },
+        "5": {
+          "title": "List level of red. in existing systems",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 49
+            }
+          },
+          "id": 48
+        }
+      },
+      "id": 39
+    },
+    "4": {
+      "title": "Industry Standards",
+      "ideas": {
+        "1": {
+          "title": "Investigate industry standards for LNG installations",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 52
+            }
+          },
+          "id": 51
+        },
+        "2": {
+          "title": "Standards for piping configuration and fittings",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 54
+            }
+          },
+          "id": 53
+        }
+      },
+      "id": 50
+    },
+    "5": {
+      "title": "Political and Social Factors",
+      "ideas": {
+        "1": {
+          "title": "Find out progress of IGF code at IMO wrt PAX ships",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 57
+            }
+          },
+          "id": 56
+        },
+        "2": {
+          "title": "Find out any local restrictions on use of LNG as fuel",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 59
+            }
+          },
+          "id": 58
+        },
+        "3": {
+          "title": "Find out any tax benefits for using LNG as fuel",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 61
+            }
+          },
+          "id": 60
+        },
+        "4": {
+          "title": "Find out how environmental organisations have influenced use of LNG as fuel",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 63
+            }
+          },
+          "id": 62
+        }
+      },
+      "id": 55
+    },
+    "6": {
+      "title": "Training",
+      "ideas": {
+        "1": {
+          "title": "Find out what certification will be reqd for crew for LNG system",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 66
+            }
+          },
+          "id": 65
+        },
+        "2": {
+          "title": "Find out what additional training will be reqd for crew for LNG system ",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 68
+            }
+          },
+          "id": 67
+        },
+        "3": {
+          "title": "Find out cost to retrain crew",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 70
+            }
+          },
+          "id": 69
+        }
+      },
+      "id": 64
+    },
+    "7": {
+      "title": "Materials",
+      "ideas": {
+        "1": {
+          "title": "Identify what type/materials of relief and control Vv used in system",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 73
+            }
+          },
+          "id": 72
+        },
+        "2": {
+          "title": "Identify type of tanks to be used and materials used",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 75
+            }
+          },
+          "id": 74
+        },
+        "3": {
+          "title": "Indentify any pipework used in shoreside system",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 77
+            }
+          },
+          "id": 76
+        },
+        "4": {
+          "title": "Identify properties and characteristics of LNG",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 79
+            }
+          },
+          "id": 78
+        },
+        "5": {
+          "title": "Identify type of pipework used in LNG system",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 81
+            }
+          },
+          "id": 80
+        },
+        "6": {
+          "title": "Identify pipe and tank construction methods",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 83
+            }
+          },
+          "id": 82
+        },
+        "7": {
+          "title": "Identify what insulation must be used in tanks and pipelines",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 85
+            }
+          },
+          "id": 84
+        }
+      },
+      "id": 71
+    },
+    "8": {
+      "title": "Environment",
+      "ideas": {
+        "1": {
+          "title": "Find out what vibration and noise exists and how will this affect new plant",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 88
+            }
+          },
+          "id": 87
+        },
+        "2": {
+          "title": "What shock loading occurs on ship due to everyday operations",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 90
+            }
+          },
+          "id": 89
+        },
+        "3": {
+          "title": "Investigate water quality in operating area",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 92
+            }
+          },
+          "id": 91
+        },
+        "4": {
+          "title": "How will air temp. affect LNG plant operation",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 94
+            }
+          },
+          "id": 93
+        },
+        "5": {
+          "title": "What is ambient temp. range in Solent",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 96
+            }
+          },
+          "id": 95
+        },
+        "6": {
+          "title": "How will sea temp. affect LNG plant operation",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 98
+            }
+          },
+          "id": 97
+        },
+        "7": {
+          "title": "How will humidity affect LNG plant operation",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 100
+            }
+          },
+          "id": 99
+        },
+        "8": {
+          "title": "How will water quality affect LNG plant eg. cooling",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 102
+            }
+          },
+          "id": 101
+        },
+        "9": {
+          "title": "Find how LNG will affect existing plant and auxy's",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 104
+            }
+          },
+          "id": 103
+        },
+        "10": {
+          "title": "Investigate common areas of damage in existing plant and how this will affect new plant",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 106
+            }
+          },
+          "id": 105
+        }
+      },
+      "id": 86
+    },
+    "9": {
+      "title": "Target Production Cost",
+      "ideas": {
+        "1": {
+          "title": "Find out the potential fuel savings if RF opt for refit",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 109
+            }
+          },
+          "id": 108
+        },
+        "2": {
+          "title": "Find out how much similar new build LNG ships cost",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 111
+            }
+          },
+          "id": 110
+        },
+        "3": {
+          "title": "Find out how much existing retrofits cost",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 113
+            }
+          },
+          "id": 112
+        },
+        "4": {
+          "title": "Find out which dry dock retrofit would take place in",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 115
+            }
+          },
+          "id": 114
+        }
+      },
+      "id": 107
+    },
+    "10": {
+      "title": "Weight",
+      "ideas": {
+        "1": {
+          "title": "How will weight of new tanks affect where they are on deck",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 118
+            }
+          },
+          "id": 117
+        },
+        "2": {
+          "title": "How will new tanks affect stability of ship",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 120
+            }
+          },
+          "id": 119
+        },
+        "3": {
+          "title": "What is weight of existing tanks when full",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 122
+            }
+          },
+          "id": 121
+        },
+        "4": {
+          "title": "What lifting equipment is reqd to remove/install plant",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 124
+            }
+          },
+          "id": 123
+        },
+        "5": {
+          "title": "How will weight impact on thrust power and ship resistance",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 126
+            }
+          },
+          "id": 125
+        },
+        "6": {
+          "title": "How will new plant affect stability",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 128
+            }
+          },
+          "id": 127
+        },
+        "7": {
+          "title": "What is weight of existing plant",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 130
+            }
+          },
+          "id": 129
+        },
+        "8": {
+          "title": "What is weight of new plant",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 132
+            }
+          },
+          "id": 131
+        },
+        "9": {
+          "title": "How will new plant impact sfc",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 134
+            }
+          },
+          "id": 133
+        },
+        "10": {
+          "title": "What lifting equipment is installed in Remontawa",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 136
+            }
+          },
+          "id": 135
+        },
+        "11": {
+          "title": "What is weight of new auxy's",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 138
+            }
+          },
+          "id": 137
+        },
+        "12": {
+          "title": "What is weight of new tanks when full",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 140
+            }
+          },
+          "id": 139
+        },
+        "13": {
+          "title": "How will weight of new tanks affect cargo and pasy space",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 142
+            }
+          },
+          "id": 141
+        }
+      },
+      "id": 116
+    },
+    "11": {
+      "title": "Market Constraints",
+      "ideas": {
+        "1": {
+          "title": "Find out lay out of ship so parts can be prefabricated in advance",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 145
+            }
+          },
+          "id": 144
+        },
+        "2": {
+          "title": "Estimate effect running on LNG will have on ticket prices",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 147
+            }
+          },
+          "id": 146
+        },
+        "3": {
+          "title": "Devise LNG containment system that will be universal between sister ships",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 149
+            }
+          },
+          "id": 148
+        },
+        "4": {
+          "title": "Find out how to minimise refit costs to make project attractive",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 151
+            }
+          },
+          "id": 150
+        },
+        "5": {
+          "title": "Investigate if LNG will be more cost effective than other technology",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 153
+            }
+          },
+          "id": 152
+        },
+        "6": {
+          "title": "Find out where LNG can be obtained and how readily",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 155
+            }
+          },
+          "id": 154
+        },
+        "7": {
+          "title": "Find out what LNG bunkering facilities are available",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 157
+            }
+          },
+          "id": 156
+        },
+        "8": {
+          "title": "Investigate what are public concerns with using LNG as fuel",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 159
+            }
+          },
+          "id": 158
+        }
+      },
+      "id": 143
+    },
+    "12": {
+      "title": "Competition",
+      "ideas": {
+        "1": {
+          "title": "Research competition from alternative emission reduction technology",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 162
+            }
+          },
+          "id": 161
+        },
+        "2": {
+          "title": "Research NAKILAT shipyard in Qatar",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 164
+            }
+          },
+          "id": 163
+        },
+        "3": {
+          "title": "Research Fjordline LNG passenger ferries",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 166
+            }
+          },
+          "id": 165
+        }
+      },
+      "id": 160
+    },
+    "13": {
+      "title": "Performance",
+      "ideas": {
+        "1": {
+          "title": "Find how ship operates engines",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 169
+            }
+          },
+          "id": 168
+        },
+        "2": {
+          "title": "Find loads, duty and rate at which existing engine runs",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 171
+            }
+          },
+          "id": 170
+        },
+        "3": {
+          "title": "Compare efficiency losses of existing and new engine",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 173
+            }
+          },
+          "id": 172
+        },
+        "4": {
+          "title": "Find sfc per day for existing engines",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 175
+            }
+          },
+          "id": 174
+        },
+        "5": {
+          "title": "Calculate propulsion power for new engine",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 177
+            }
+          },
+          "id": 176
+        },
+        "6": {
+          "title": "Investigate existing engine power",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 179
+            }
+          },
+          "id": 178
+        },
+        "7": {
+          "title": "Investigate existing engine speed",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 181
+            }
+          },
+          "id": 180
+        },
+        "8": {
+          "title": "Calculate whether new power is sufficient",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 183
+            }
+          },
+          "id": 182
+        },
+        "9": {
+          "title": "Find sfc per day for new engines",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 185
+            }
+          },
+          "id": 184
+        },
+        "10": {
+          "title": "Compare thrust power of existing and new engine",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 187
+            }
+          },
+          "id": 186
+        },
+        "11": {
+          "title": "Determine whether new LNG engine can meet this loading",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 189
+            }
+          },
+          "id": 188
+        },
+        "12": {
+          "title": "Decide if ship will use current DG's or shaft generator instead?",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 191
+            }
+          },
+          "id": 190
+        }
+      },
+      "id": 167
+    },
+    "14": {
+      "title": "Maintenance",
+      "ideas": {
+        "1": {
+          "title": "What are maintenance requirements for shoreside refuelling?",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 194
+            }
+          },
+          "id": 193
+        },
+        "2": {
+          "title": "Identify how new system affects availability of parts",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 196
+            }
+          },
+          "id": 195
+        },
+        "3": {
+          "title": "Identify LNG plant maintenance requirements",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 198
+            }
+          },
+          "id": 197
+        },
+        "4": {
+          "title": "Identify system on board for recording PM info",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 200
+            }
+          },
+          "id": 199
+        },
+        "5": {
+          "title": "Investigate current SOPEP measures",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 202
+            }
+          },
+          "id": 201
+        },
+        "6": {
+          "title": "Get maintenance records from RF",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 204
+            }
+          },
+          "id": 203
+        },
+        "7": {
+          "title": "Highlight key problems and how will this affect LNG plant",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 206
+            }
+          },
+          "id": 205
+        },
+        "8": {
+          "title": "Investigate how current PM tasks are sent to office",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 208
+            }
+          },
+          "id": 207
+        },
+        "9": {
+          "title": "Identify ER responsibilities on board",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 210
+            }
+          },
+          "id": 209
+        },
+        "10": {
+          "title": "Identify how cost of new parts will change",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 212
+            }
+          },
+          "id": 211
+        },
+        "11": {
+          "title": "Identify how new PM system will integrate with existing system",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 214
+            }
+          },
+          "id": 213
+        }
+      },
+      "id": 192
+    },
+    "15": {
+      "title": "Service Life",
+      "ideas": {
+        "1": {
+          "title": "How do these problems impact on the life span of new engines",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 217
+            }
+          },
+          "id": 216
+        },
+        "2": {
+          "title": "What are common problems with LNG 4 Stroke engines",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 219
+            }
+          },
+          "id": 218
+        },
+        "3": {
+          "title": "What is normal life span of new LNG engines?",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 221
+            }
+          },
+          "id": 220
+        },
+        "4": {
+          "title": "What is MCR for new engines",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 223
+            }
+          },
+          "id": 222
+        },
+        "5": {
+          "title": "What is existing engine MCR",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 225
+            }
+          },
+          "id": 224
+        },
+        "6": {
+          "title": "Compare the two engines",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 227
+            }
+          },
+          "id": 226
+        },
+        "7": {
+          "title": "What is normal life span of auxiliary systems selected",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 229
+            }
+          },
+          "id": 228
+        },
+        "8": {
+          "title": "What are common problems with LNG auxiliary systems",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 231
+            }
+          },
+          "id": 230
+        },
+        "9": {
+          "title": "How do these problems impact on the life span of auxiliary systems",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 233
+            }
+          },
+          "id": 232
+        },
+        "10": {
+          "title": "What are auxy systems MCR and how does this impact lifespan",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 235
+            }
+          },
+          "id": 234
+        }
+      },
+      "id": 215
+    },
+    "16": {
+      "title": "Size",
+      "ideas": {
+        "1": {
+          "title": "Determine what size of bunkering facility if any would be needed shoreside",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 238
+            }
+          },
+          "id": 237
+        },
+        "2": {
+          "title": "How will size of auxy's affect access in engine room",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 240
+            }
+          },
+          "id": 239
+        },
+        "3": {
+          "title": "How will new plant and tanks impact on access in engine room",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 242
+            }
+          },
+          "id": 241
+        },
+        "4": {
+          "title": "How will free surface effect be minimised in tanks",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 244
+            }
+          },
+          "id": 243
+        },
+        "5": {
+          "title": "Find out where existing structural A60 bulkheads are",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 246
+            }
+          },
+          "id": 245
+        },
+        "6": {
+          "title": "Find out how much space auxy plant will occupy",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 248
+            }
+          },
+          "id": 247
+        },
+        "7": {
+          "title": "Find out existing engine dimensions",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 250
+            }
+          },
+          "id": 249
+        },
+        "8": {
+          "title": "Find out new engine dimensions",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 252
+            }
+          },
+          "id": 251
+        },
+        "9": {
+          "title": "Find out if there will be enough space for new plant",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 254
+            }
+          },
+          "id": 253
+        },
+        "10": {
+          "title": "Find out how new plant will affect existing bulkheads",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 256
+            }
+          },
+          "id": 255
+        },
+        "11": {
+          "title": "What type will new tanks be",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 258
+            }
+          },
+          "id": 257
+        },
+        "12": {
+          "title": "How will size of new plant and auxy's impact on cargo and pasy space",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 260
+            }
+          },
+          "id": 259
+        },
+        "13": {
+          "title": "Determine where any shoreside installation would be located",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 262
+            }
+          },
+          "id": 261
+        }
+      },
+      "id": 236
+    },
+    "17": {
+      "title": "Function",
+      "ideas": {
+        "1": {
+          "title": "Determine what safety interlocks are needed",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 265
+            }
+          },
+          "id": 264
+        },
+        "2": {
+          "title": "Decide on pref trip sequence of auxy's",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 267
+            }
+          },
+          "id": 266
+        },
+        "3": {
+          "title": "Determine how power will be generated on board after refit",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 269
+            }
+          },
+          "id": 268
+        },
+        "4": {
+          "title": "Determine how flow rate of gas is monitored",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 271
+            }
+          },
+          "id": 270
+        },
+        "5": {
+          "title": "Find out flow rate of LNG to auxy's",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 273
+            }
+          },
+          "id": 272
+        },
+        "6": {
+          "title": "Find out correct capacity of compressor for supply of LNG to engine",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 275
+            }
+          },
+          "id": 274
+        },
+        "7": {
+          "title": "Find flow rate of LNG gas to engine",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 277
+            }
+          },
+          "id": 276
+        },
+        "8": {
+          "title": "Find effect of elbows in pipes on flow of gas",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 279
+            }
+          },
+          "id": 278
+        },
+        "9": {
+          "title": "Find out auto system to be installed to give correct flow rate",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 281
+            }
+          },
+          "id": 280
+        },
+        "10": {
+          "title": "Find out effect of auxy's on ships power supply",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 283
+            }
+          },
+          "id": 282
+        },
+        "11": {
+          "title": "Find out how wiring should be carried out safely",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 285
+            }
+          },
+          "id": 284
+        },
+        "12": {
+          "title": "Decide how LNG auxy's are connected to switchboard",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 287
+            }
+          },
+          "id": 286
+        },
+        "13": {
+          "title": "Estimate new power demand",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 289
+            }
+          },
+          "id": 288
+        }
+      },
+      "id": 263
+    },
+    "18": {
+      "title": "Quality and Reliability",
+      "ideas": {
+        "1": {
+          "title": "Find out materials suitable for LNG pipework",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 292
+            }
+          },
+          "id": 291
+        },
+        "2": {
+          "title": "Find out how best to implement redundancy",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 294
+            }
+          },
+          "id": 293
+        }
+      },
+      "id": 290
+    },
+    "19": {
+      "title": "Testing",
+      "ideas": {
+        "1": {
+          "title": "Find out points of system where NDT must take place",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 297
+            }
+          },
+          "id": 296
+        },
+        "2": {
+          "title": "Find out efficiency requirements that must be met",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 299
+            }
+          },
+          "id": 298
+        },
+        "3": {
+          "title": "Find out what testing pressure is reqd in bar",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 301
+            }
+          },
+          "id": 300
+        },
+        "4": {
+          "title": "Find out what sea trial tests are reqd after new plant is installed",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 303
+            }
+          },
+          "id": 302
+        },
+        "5": {
+          "title": "Find out method that will be used to conduct cold brittleness test",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 305
+            }
+          },
+          "id": 304
+        },
+        "6": {
+          "title": "Find out points of system which must be visually inspected",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 307
+            }
+          },
+          "id": 306
+        }
+      },
+      "id": 295
+    },
+    "20": {
+      "title": "Customers",
+      "ideas": {
+        "1": {
+          "title": "Find out how LNG would reduce these costs",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 310
+            }
+          },
+          "id": 309
+        },
+        "2": {
+          "title": "Identify RF's priorities as a business",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 312
+            }
+          },
+          "id": 311
+        },
+        "3": {
+          "title": "Find out how much RF spend on overheads and costs (get accounts)",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 314
+            }
+          },
+          "id": 313
+        },
+        "4": {
+          "title": "Find out what space ship requires for cargo/pasy",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 316
+            }
+          },
+          "id": 315
+        },
+        "5": {
+          "title": "Find out what space is available for tanks",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 318
+            }
+          },
+          "id": 317
+        },
+        "6": {
+          "title": "Find out regulations for LNG on pasy vessels",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 320
+            }
+          },
+          "id": 319
+        }
+      },
+      "id": 308
+    },
+    "21": {
+      "title": "Longevity/Storage",
+      "ideas": {
+        "1": {
+          "title": "Find out storage methods to be used e.g. Crates",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 323
+            }
+          },
+          "id": 322
+        },
+        "2": {
+          "title": "Find out how LNG system must be stored to avoid degredation",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 325
+            }
+          },
+          "id": 324
+        },
+        "3": {
+          "title": "Find out how parts of plant must be sealed to prevent corrosion",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 327
+            }
+          },
+          "id": 326
+        }
+      },
+      "id": 321
+    },
+    "22": {
+      "title": "Safety",
+      "ideas": {
+        "1": {
+          "title": "What warning signs have to be displayed",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 330
+            }
+          },
+          "id": 329
+        },
+        "2": {
+          "title": "Find out who is responsible for testing",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 332
+            }
+          },
+          "id": 331
+        },
+        "3": {
+          "title": "Find out regs for installation of heads",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 334
+            }
+          },
+          "id": 333
+        },
+        "4": {
+          "title": "How can existing FF system be incorporated into new",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 336
+            }
+          },
+          "id": 335
+        },
+        "5": {
+          "title": "Find out what fixed FF is in place",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 338
+            }
+          },
+          "id": 337
+        },
+        "6": {
+          "title": "Find number of gas heads to be installed",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 340
+            }
+          },
+          "id": 339
+        },
+        "7": {
+          "title": "Find out type of gas heads that are suitable",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 342
+            }
+          },
+          "id": 341
+        },
+        "8": {
+          "title": "Decide if this is suitable for new plant",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 344
+            }
+          },
+          "id": 343
+        },
+        "9": {
+          "title": "Find routine fire testing tasks",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 346
+            }
+          },
+          "id": 345
+        },
+        "10": {
+          "title": "Get current Fire safety plan",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 348
+            }
+          },
+          "id": 347
+        },
+        "11": {
+          "title": "What are safety regs for installing LNG on ships",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 350
+            }
+          },
+          "id": 349
+        },
+        "12": {
+          "title": "How do we set up N2 lines for purging",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 352
+            }
+          },
+          "id": 351
+        },
+        "13": {
+          "title": "How to arrange auxy's to minimise fire hazards",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 354
+            }
+          },
+          "id": 353
+        },
+        "14": {
+          "title": "What are LNG spill drills required?",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 356
+            }
+          },
+          "id": 355
+        }
+      },
+      "id": 328
+    },
+    "23": {
+      "title": "Personnel",
+      "ideas": {
+        "1": {
+          "title": "Allocate routine testing to engineers onboard",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 359
+            }
+          },
+          "id": 358
+        },
+        "2": {
+          "title": "Find out how personnel will be trained for bunkering LNG",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 361
+            }
+          },
+          "id": 360
+        },
+        "3": {
+          "title": "Determine team responsibilities for LNG plant",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 363
+            }
+          },
+          "id": 362
+        },
+        "4": {
+          "title": "Decide if manning requirements will change",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 365
+            }
+          },
+          "id": 364
+        },
+        "5": {
+          "title": "Find out training and certification personnel need to operate LNG engines",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 367
+            }
+          },
+          "id": 366
+        },
+        "6": {
+          "title": "Decide how to train them without affecting operating schedule",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 369
+            }
+          },
+          "id": 368
+        },
+        "7": {
+          "title": "Write operational procedures in plain english",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 371
+            }
+          },
+          "id": 370
+        },
+        "8": {
+          "title": "Find out how personnel will be trained in LNG safety",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 373
+            }
+          },
+          "id": 372
+        }
+      },
+      "id": 357
+    },
+    "24": {
+      "title": "Timing",
+      "ideas": {
+        "1": {
+          "title": "Determine best time of year to carry out refit",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 376
+            }
+          },
+          "id": 375
+        },
+        "2": {
+          "title": "Estimate duration of refit",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 378
+            }
+          },
+          "id": 377
+        },
+        "3": {
+          "title": "Determine time to retrain crew",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 380
+            }
+          },
+          "id": 379
+        }
+      },
+      "id": 374
+    },
+    "25": {
+      "title": "How an LNG Dual Fuel Engine Works?",
+      "ideas": {
+        "1": {
+          "title": "What common problems occur in DF LNG systems",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 383
+            }
+          },
+          "id": 382
+        },
+        "2": {
+          "title": "What processing does LNG go through before injection",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 385
+            }
+          },
+          "id": 384
+        },
+        "3": {
+          "title": "Explain this in simple terms with suitable illustrations",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 387
+            }
+          },
+          "id": 386
+        },
+        "4": {
+          "title": "Investigate how a DF LNG engine works",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 389
+            }
+          },
+          "id": 388
+        },
+        "5": {
+          "title": "How fuel is stored in LNG system",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 391
+            }
+          },
+          "id": 390
+        },
+        "6": {
+          "title": "How is it ignited and combusted",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 393
+            }
+          },
+          "id": 392
+        },
+        "7": {
+          "title": "How does LNG affect lubrication of cylinders",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 395
+            }
+          },
+          "id": 394
+        }
+      },
+      "id": 381
+    },
+    "26": {
+      "title": "Economy",
+      "ideas": {
+        "1": {
+          "title": "Find out changes to emission regs in 2015",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 398
+            }
+          },
+          "id": 397
+        },
+        "2": {
+          "title": "Calculate potential fuel savings",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 400
+            }
+          },
+          "id": 399
+        },
+        "3": {
+          "title": "Find out how much it costs to run engines on LNG a day",
+          "ideas": {
+            "1": {
+              "title": "E",
+              "id": 402
+            }
+          },
+          "id": 401
+        },
+        "4": {
+          "title": "Find out cost per day to run engines on diesel",
+          "ideas": {
+            "1": {
+              "title": "W",
+              "id": 404
+            }
+          },
+          "id": 403
+        },
+        "5": {
+          "title": "Find out difference in emissions between LNG and Diesel",
+          "ideas": {
+            "1": {
+              "title": "A",
+              "id": 406
+            }
+          },
+          "id": 405
+        },
+        "6": {
+          "title": "Find out ship's current daily fuel consumption",
+          "ideas": {
+            "1": {
+              "title": "B",
+              "id": 408
+            }
+          },
+          "id": 407
+        }
+      },
+      "id": 396
+    }
+  },
+  "formatVersion": 2,
+  "id": 1
+}
