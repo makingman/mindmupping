@@ -388,8 +388,7 @@
           "attr": {
             "style": {
               "background": "#3366ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "2": {
@@ -409,8 +408,7 @@
           "attr": {
             "style": {
               "background": "#3366ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "3": {
@@ -430,8 +428,7 @@
           "attr": {
             "style": {
               "background": "#3366ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "4": {
@@ -451,8 +448,7 @@
           "attr": {
             "style": {
               "background": "#3366ff"
-            },
-            "collapsed": true
+            }
           }
         },
         "5": {
@@ -472,8 +468,7 @@
           "attr": {
             "style": {
               "background": "#3366ff"
-            },
-            "collapsed": true
+            }
           }
         }
       },
